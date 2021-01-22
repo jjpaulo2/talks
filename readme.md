@@ -12,7 +12,7 @@ List of talks, tutorials, minicourses and seminars. Here you can find some mater
 
 |||
 |-|-|
-| **Occasion** | VII Semana de Informática do IFPI Campus Parnaíba |
+| **Occasion** | Scientific Research Presentation |
 | **Tutorial** | Introdução ao Scilab |
 | **Material** | [Presentation](presentations/2020-introducao-ao-scilab.pdf) |
 
@@ -30,4 +30,4 @@ List of talks, tutorials, minicourses and seminars. Here you can find some mater
 |-|-|
 | **Event** | VII Semana de Informática do IFPI Campus Parnaíba |
 | **Minicourse** | Desenvolvimento de Jogos com PyGame |
-| **Material** | [Presentation](presentations/2018-desenvolvimento-de-jogos-com-pygame.pdf) |
+| **Material** | [Presentation](presentations/2018-desenvolvimento-de-jogos-com-pygame.pdf), [Repository](https://github.com/jjpaulo2/minicurso-pygame) |
