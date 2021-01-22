@@ -1,6 +1,6 @@
 # MY TALKS
 
-Material used in talks, tutorials, minicourses and seminars. 
+List of talks, tutorials, minicourses and seminars. Here you can find some material used to present it. Do a conscientious use of this content. 
 
 ### 2020
 
