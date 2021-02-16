@@ -1,6 +1,15 @@
-# Talks, tutorials, minicourses and seminars.
+# Talks, tutorials, minicourses and seminars by [@jjpaulo2](https://www.github.com/jjpaulo2)
 
-List of talks, tutorials, minicourses and seminars. Here you can find some material used to present it. Do a conscientious use of this content. 
+<div style='display: flex;'>
+<img src='./me.png' style='display: block; width: 150px; height: 150px; margin-right: 10px'>
+
+<div>
+<p>🇬🇧 Next you will find a list of talks, tutorials, minicourses and seminars taught by me. Here you can also find some material used to present it. Do a conscientious use of this content.</p>
+
+<p>🇧🇷 A seguir você encontrará uma lista de palestras, tutoriais, minicursos e seminários ministrados por mim. Aqui você também poderá encontrar alguns materiais utilizados para apresenta-los. Faça um uso consciente disto.</p>
+</div>
+</div>
+
 
 ### 2020
 
