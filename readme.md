@@ -1,7 +1,7 @@
 # Talks, tutorials, minicourses and seminars by [@jjpaulo2](https://www.github.com/jjpaulo2)
 
 <div style='display: flex;'>
-<img src='./me.png' style='display: block; width: 150px; height: 150px; margin-right: 10px'>
+<img src='./me.png' style='display: block; width: 150px; height: 150px; margin: 0 10px 10px 0'>
 
 <div>
 <p>🇬🇧 Next you will find a list of talks, tutorials, minicourses and seminars taught by me. Here you can also find some material used to present it. Do a conscientious use of this content.</p>
