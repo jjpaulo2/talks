@@ -1,6 +1,6 @@
 # Talks, tutorials, minicourses and seminars by [@jjpaulo2](https://www.github.com/jjpaulo2)
 
-<div style='display: flex;'>
+<div style='display: flex; margin: 10px 0 10px 0'>
 <img src='./me.png' style='display: block; width: 150px; height: 150px; margin: 0 10px 10px 0'>
 
 <div>
