@@ -4,33 +4,86 @@ List of talks, tutorials, minicourses and seminars. Here you can find some mater
 
 ### 2020
 
-| **Event** | Python Brasil 2020 |
-|-|-|
-| **Minicourse** | Criando seu Primeiro Jogo com Python e PyGame |
-| **Material** | [Repository](https://github.com/jjpaulo2/tutorial-pygame-python-brasil-2020) |
+<table>
+    <tr>
+        <td><strong>Event</strong></td>
+        <td>Python Brasil 2020</td>
+    </tr>
+    <tr>
+        <td><strong>Minicourse</strong></td>
+        <td>Criando seu Primeiro Jogo com Python e PyGame</td>
+    </tr>
+    <tr>
+        <td><strong>Material</strong></td>
+        <td><a target="_blank" href="https://github.com/jjpaulo2/tutorial-pygame-python-brasil-2020">Repository</a></td>
+    </tr>
+</table>
 
-| **Occasion** | Scientific Research Presentation |
-|-|-|
-| **Tutorial** | Introdução ao Scilab |
-| **Material** | [Presentation](presentations/2020-introducao-ao-scilab.pdf) |
+<table>
+    <tr>
+        <td><strong>Occasion</strong></td>
+        <td>Scientific Research Presentation</td>
+    </tr>
+    <tr>
+        <td><strong>Tutorial</strong></td>
+        <td>Introdução ao Scilab</td>
+    </tr>
+    <tr>
+        <td><strong>Material</strong></td>
+        <td><a target="_blank" href="./presentations/2020-introducao-ao-scilab.pdf">Presentation</a></td>
+    </tr>
+</table>
+
 
 ### 2019
 
-| **Event** | II Encontro Regional da OBMEP |
-|-|-|
-| **Talk** | Compreendendo a Conjectura de Collatz |
-| **Material** | [Presentation](presentations/2019-compreendendo-a-conjectura-de-collatz.pdf) |
+<table>
+    <tr>
+        <td><strong>Event</strong></td>
+        <td>II Encontro Regional da OBMEP</td>
+    </tr>
+    <tr>
+        <td><strong>Talk</strong></td>
+        <td>Compreendendo a Conjectura de Collatz</td>
+    </tr>
+    <tr>
+        <td><strong>Material</strong></td>
+        <td><a target="_blank" href="./presentations/2019-compreendendo-a-conjectura-de-collatz.pdf">Presentation</a></td>
+    </tr>
+</table>
+
 
 ### 2018
 
-| **Event** | VII Semana de Informática do IFPI Campus Parnaíba |
-|-|-|
-| **Minicourse** | Desenvolvimento de Jogos com PyGame |
-| **Material** | [Repository](https://github.com/jjpaulo2/minicurso-pygame-vii-seifpi) |
+<table>
+    <tr>
+        <td><strong>Event</strong></td>
+        <td>VII Semana de Informática do IFPI Campus Parnaíba</td>
+    </tr>
+    <tr>
+        <td><strong>Minicourse</strong></td>
+        <td>Desenvolvimento de Jogos com PyGame</td>
+    </tr>
+    <tr>
+        <td><strong>Material</strong></td>
+        <td><a target="_blank" href="https://github.com/jjpaulo2/minicurso-pygame-vii-seifpi">Repository</a></td>
+    </tr>
+</table>
+
 
 ### 2017
 
-| **Event** | VI Semana de Informática do IFPI Campus Parnaíba |
-|-|-|
-| **Minicourse** | Desenvolvendo aplicativos mobile com Ionic |
-| **Material** | [Repository](https://github.com/jjpaulo2/minicurso-ionic-vi-seifpi) |
+<table>
+    <tr>
+        <td><strong>Event</strong></td>
+        <td>VI Semana de Informática do IFPI Campus Parnaíba</td>
+    </tr>
+    <tr>
+        <td><strong>Minicourse</strong></td>
+        <td>Desenvolvendo aplicativos mobile com Ionic</td>
+    </tr>
+    <tr>
+        <td><strong>Material</strong></td>
+        <td><a target="_blank" href="https://github.com/jjpaulo2/minicurso-ionic-vi-seifpi">Repository</a></td>
+    </tr>
+</table>
